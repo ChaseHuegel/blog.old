@@ -3,8 +3,7 @@
 ![github](github.png) 
 ``` github.com/ChaseHuegel ```
 
-![linkin](linkedin.png) 
-``` linkedin.com/in/chase-huegel-62532220b ```
+![linkin](linkedin.png) linkedin.com/in/chase-huegel-62532220b |
 
 # About Me
 > Father, avid coder, tech support, dungeon master, and hobby artist.
@@ -72,4 +71,4 @@ Self-employed 2010 - 2015
 
 ### Education
 * Associote of Computer Science GPA: 3.6, Polk State College (Computer Systems & Business Analysis)
-* Pursuing Bachelor's of Computer Science
+* Pursuing Bachelor's of Computer Science |
