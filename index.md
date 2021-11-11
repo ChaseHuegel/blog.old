@@ -1,4 +1,8 @@
-![github](github.png) [github.com/ChaseHuegel](github.com/ChaseHuegel) | ![linkin](linkedin.png) [linkedin.com/in/chase-huegel-62532220b](linkedin.com/in/chase-huegel-62532220b)
+![phone](call.png) *(863) 271-3401* | ![email](mail.png) *ultimga@gmail.com*
+
+![github](github.png) [github.com/ChaseHuegel](github.com/ChaseHuegel)
+
+![linkin](linkedin.png) [linkedin.com/in/chase-huegel-62532220b](linkedin.com/in/chase-huegel-62532220b)
 
 # Chase Huegel
 > Father, avid coder, tech support, dungeon master, and hobby artist.
@@ -6,8 +10,6 @@
 I am an enthusastic and motivated programmer and problem solver with a strong tech and business foundation. Worked through school from a young age with computers and self-starting online endeavors.
 
 I'm looking to work with a team, and on something, that I can be proud of!
-
-![phone](call.png) *(863) 271-3401* | ![email](mail.png) *ultimga@gmail.com*
 
 * * *
 
