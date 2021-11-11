@@ -10,14 +10,16 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 * C++
 * Java
 * HTML
-
-#### Quick to Refresh
+* 
+```
+##### Quick to Refresh
 
 * Visual Basic
 * Python
 * JavaScript
 * CSS
 * Lua
+```
 
 ### Technologies
 
@@ -31,19 +33,19 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 
 ### Work History
 
-#### Team Lead - Incident Management
+##### **Team Lead - Incident Management**
 Diebold Nixdorf 2021 - Current
 
-#### Incident Handler
+##### **Incident Handler**
 Diebold Nixdorf 2019-2021
 
-#### IT Specialist
+##### **IT Specialist**
 Pat's Pro Paint 2018-2019 (Internship)
 
-##### Search Engine Optimization Manager
+###### **Search Engine Optimization Manager**
 You've Been Wrapped LLC 2018 (Seasonal)
 
-###### Server Administrator
+###### **Server Administrator**
 Self-employed 2010 - 2015
 
 ### Experience
