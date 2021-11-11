@@ -1,10 +1,13 @@
 # Chase Huegel
-* * *
 > Father, avid coder, tech support, dungeon master, and hobby artist.
 
 I am an enthusastic and motivated programmer and problem solver with a strong tech and business foundation. Worked through school from a young age with computers and self-starting online endeavors. I'm a quick learner looking for a career shift into software working with a team, and on something, that I can be proud of!
 
-[Projects on GitHub @ChaseHuegel](https://github.com/ChaseHuegel)
+<p align="center">
+  [Projects on GitHub @ChaseHuegel](https://github.com/ChaseHuegel)
+</p>
+
+* * *
 
 ### Known Languages
 
@@ -45,7 +48,7 @@ You've Been Wrapped LLC 2018 (Seasonal)
 ###### **Server Administrator**
 Self-employed 2010 - 2015
 
-### Experience
+##### Experience
 
 * 10 yrs of hobyist software engineering experience
 * 3 yrs developing a VR Unity game, partnered with Steamworks and Oculus to launch on the then upcoming Oculus platform
