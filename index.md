@@ -10,15 +10,13 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 * C++
 * Java
 * HTML
-* 
-```
-##### Quick to Refresh
 
-* Visual Basic
-* Python
-* JavaScript
-* CSS
-* Lua
+```
+Visual Basic
+Python
+JavaScript
+CSS
+Lua
 ```
 
 ### Technologies
