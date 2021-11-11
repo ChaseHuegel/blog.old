@@ -1,4 +1,5 @@
-[github.com/ChaseHuegel](github.com/ChaseHuegel) | [linkedin.com/in/chase-huegel-62532220b](linkedin.com/in/chase-huegel-62532220b)
+![github](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/github.png) [github.com/ChaseHuegel](github.com/ChaseHuegel) |
+![linkin](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/linkedin.png) [linkedin.com/in/chase-huegel-62532220b](linkedin.com/in/chase-huegel-62532220b)
 
 # About Me
 > Father, avid coder, tech support, dungeon master, and hobby artist.
