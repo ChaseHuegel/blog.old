@@ -48,12 +48,12 @@ Self-employed 2010 - 2015
 
 ### Experience
 
-* 10 years of hobyist software engineering experience
-* 3 years developing a VR Unity game, partnered with Steamworks and Oculus to launch on the then upcoming Oculus platform
-* 1 year Software Engineering, QA, Debugging as co-writer of [RadialMenu](http://radialmenu.weebly.com/) software popular with industry artists
-* 5 years administrating, developing, and supporting a game server
-* 5 years coordinating and manging a 6 person team moderating a game server
-* 4 years customer support experience running an online storefront
+* 10 yrs of hobyist software engineering experience
+* 3 yrs developing a VR Unity game, partnered with Steamworks and Oculus to launch on the then upcoming Oculus platform
+* 1 yrs Software Engineering, QA, Debugging as co-writer of [RadialMenu](http://radialmenu.weebly.com/) software popular with industry artists
+* 5 yrs administrating, developing, and supporting a game server
+* 5 yrs coordinating and managing 6 person game server moderation team
+* 4 yrs customer support experience running an online storefront
 * IT support troubleshooting, installing and upgrading hardware and software
 * Web design, SEO management
 * Leadership experience organizing local community events
