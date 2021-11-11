@@ -1,7 +1,5 @@
-*Alliance, Ohio*
-
-*ultimga@gmail.com* | *(863) 271-3401*
-github.com/ChaseHuegel | linkedin.com/in/chase-huegel-62532220b
+*ultimga@gmail.com* | linkedin.com/in/chase-huegel-62532220b
+*(863) 271-3401* | github.com/ChaseHuegel
 
 # About Me
 > Father, avid coder, tech support, dungeon master, and hobby artist.
