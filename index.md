@@ -1,5 +1,4 @@
-*ultimga@gmail.com* | linkedin.com/in/chase-huegel-62532220b
-*(863) 271-3401* | github.com/ChaseHuegel
+[linkedin.com/in/chase-huegel-62532220b](linkedin.com/in/chase-huegel-62532220b) | [github.com/ChaseHuegel](github.com/ChaseHuegel)
 
 # About Me
 > Father, avid coder, tech support, dungeon master, and hobby artist.
@@ -7,6 +6,8 @@
 I am an enthusastic and motivated programmer and problem solver with a strong tech and business foundation. Worked through school from a young age with computers and self-starting online endeavors.
 
 I'm looking to work with a team, and on something, that I can be proud of!
+
+*ultimga@gmail.com* | *(863) 271-3401*
 
 * * *
 
