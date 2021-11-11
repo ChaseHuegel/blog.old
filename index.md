@@ -40,10 +40,10 @@ Diebold Nixdorf 2019-2021
 #### IT Specialist
 Pat's Pro Paint 2018-2019 (Internship)
 
-#### Search Engine Optimization Manager
+##### Search Engine Optimization Manager
 You've Been Wrapped LLC 2018 (Seasonal)
 
-#### Server Administrator
+###### Server Administrator
 Self-employed 2010 - 2015
 
 ### Experience
