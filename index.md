@@ -1,3 +1,7 @@
+Email: *Ultimga@gmail.com* | Phone: *863-271-3401* | Location: *Alliance, Ohio*
+
+GitHub: https://github.com/ChaseHuegel | LinkedIn: https://www.linkedin.com/in/chase-huegel-62532220b/
+
 # About Me
 > Father, avid coder, tech support, dungeon master, and hobby artist.
 
@@ -6,6 +10,7 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 I'm looking to work with a team, and on something, that I can be proud of!
 
 [Projects on GitHub @ChaseHuegel](https://github.com/ChaseHuegel)
+
 
 * * *
 
