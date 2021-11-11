@@ -11,6 +11,8 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 * Java
 * HTML
 
+##### Quick to Refresh
+
 ```
 Visual Basic
 Python
