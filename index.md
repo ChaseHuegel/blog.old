@@ -64,7 +64,7 @@ Self-employed 2010 - 2015
 * Incident Management, Root Cause Analysis |
 * Leadership experience organizing local community events |
 * Full Stack Devleopment |
-* Independent game development |
+* Independent Game Development |
 
 ### Education
 * Associote of Computer Science GPA: 3.6, Polk State College (Computer Systems & Business Analysis)
