@@ -14,11 +14,7 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 ###### Quick to Refresh
 
 ```
-Visual Basic
-Python
-JavaScript
-CSS
-Lua
+Visual Basic, Python, JavaScript, CSS, Lua, Ruby
 ```
 
 ### Technologies
