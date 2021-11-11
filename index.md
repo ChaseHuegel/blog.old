@@ -11,7 +11,7 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 * Java
 * HTML
 
-##### Quick to Refresh
+###### Quick to Refresh
 
 ```
 Visual Basic
@@ -33,13 +33,13 @@ Lua
 
 ### Work History
 
-##### **Team Lead - Incident Management**
+###### **Team Lead - Incident Management**
 Diebold Nixdorf 2021 - Current
 
-##### **Incident Handler**
+###### **Incident Handler**
 Diebold Nixdorf 2019-2021
 
-##### **IT Specialist**
+###### **IT Specialist**
 Pat's Pro Paint 2018-2019 (Internship)
 
 ###### **Search Engine Optimization Manager**
@@ -54,9 +54,9 @@ Self-employed 2010 - 2015
 * 3 yrs developing a VR Unity game, partnered with Steamworks and Oculus to launch on the then upcoming Oculus platform
 * 1 yrs Software Engineering, QA, Debugging as co-writer of [RadialMenu](http://radialmenu.weebly.com/) software popular with industry artists
 * 5 yrs administrating, developing, and supporting a game server
-* 5 yrs coordinating and managing 6 person game server moderation team
+* 5 yrs managing 6 person game server moderation team
 * 4 yrs customer support experience running an online storefront
-* IT support troubleshooting, installing and upgrading hardware and software
+* IT support, installing and upgrading hardware and software
 * Web design, SEO management
 * Leadership experience organizing local community events
 * Full Stack Devleopment
