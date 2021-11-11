@@ -20,9 +20,7 @@ C#, C++, Java, HTML
 ```
 
 **Quick to Refresh**
-```
-Visual Basic, Python, JavaScript, CSS, Lua, Ruby
-```
+```Visual Basic, Python, JavaScript, CSS, Lua, Ruby```
 
 ### Technologies
 
