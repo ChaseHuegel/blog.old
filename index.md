@@ -1,4 +1,4 @@
-#####
+##### [See some of my work on GitHub!](https://github.com/ChaseHuegel)
 
 ## Chase Huegel
 
