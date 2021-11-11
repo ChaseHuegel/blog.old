@@ -38,10 +38,10 @@ C#, C++, Java, HTML
 Diebold Nixdorf 2021 - Current
 
 ###### **Incident Handler**
-Diebold Nixdorf 2019-2021
+Diebold Nixdorf 2019 - 2021
 
 ###### **IT Specialist**
-Pat's Pro Paint 2018-2019 (Internship)
+Pat's Pro Paint 2018 - 2019 (Internship)
 
 ###### **Search Engine Optimization Manager**
 You've Been Wrapped LLC 2018 (Seasonal)
