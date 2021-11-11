@@ -1,7 +1,9 @@
 # About Me
 > Father, avid coder, tech support, dungeon master, and hobby artist.
 
-I am an enthusastic and motivated programmer and problem solver with a strong tech and business foundation. Worked through school from a young age with computers and self-starting online endeavors. I'm a quick learner looking for a career shift into software working with a team, and on something, that I can be proud of!
+I am an enthusastic and motivated programmer and problem solver with a strong tech and business foundation. Worked through school from a young age with computers and self-starting online endeavors.
+
+I'm a quick learner looking for a career shift into software working with a team, and on something, that I can be proud of!
 
 [Projects on GitHub @ChaseHuegel](https://github.com/ChaseHuegel)
 
