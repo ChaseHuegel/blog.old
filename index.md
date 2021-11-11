@@ -15,10 +15,9 @@ I'm looking to work with a team, and on something, that I can be proud of!
 
 ### Known Languages
 
-* C#
-* C++
-* Java
-* HTML
+```
+C#, C++, Java, HTML
+```
 
 **Quick to Refresh**
 ```
