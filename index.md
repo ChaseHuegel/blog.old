@@ -1,7 +1,7 @@
 ![github](github.png) [github.com/ChaseHuegel](github.com/ChaseHuegel) |
 ![linkin](linkedin.png) [linkedin.com/in/chase-huegel-62532220b](linkedin.com/in/chase-huegel-62532220b)
 
-# About Me
+# Chase Huegel
 > Father, avid coder, tech support, dungeon master, and hobby artist.
 
 I am an enthusastic and motivated programmer and problem solver with a strong tech and business foundation. Worked through school from a young age with computers and self-starting online endeavors.
