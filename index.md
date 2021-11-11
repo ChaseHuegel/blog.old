@@ -2,7 +2,7 @@
 
 > Father, avid coder, tech support, dungeon master, and hobby artist.
 
-I am an enthusastic and motivated programmer and problem solver with a strong tech and business foundation. Worked through school from a young age with computers and self-starting online endeavors gaining experience in tech, dev, team environments, and customer experiences across mediums such as IT, software, games, servers, web, and databases.
+I am an enthusastic and motivated programmer and problem solver with a strong tech and business foundation. Worked through school from a young age with computers and self-starting online endeavors. I'm a quick learner looking for a career shift into software working with a team, and on something, that I can be proud of!
 
 ##### [See some of my projects on GitHub @ChaseHuegel](https://github.com/ChaseHuegel)
 
@@ -13,8 +13,7 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 * Java
 * HTML
 
-###### Quick to Refresh
-
+**Quick to Refresh**
 ```
 Visual Basic, Python, JavaScript, CSS, Lua, Ruby
 ```
@@ -57,6 +56,7 @@ Self-employed 2010 - 2015
 * 4 yrs customer support experience running an online storefront
 * IT support, installing and upgrading hardware and software
 * Web design, SEO management
+* Incident Management, Root Cause Analysis
 * Leadership experience organizing local community events
 * Full Stack Devleopment
 * Independent game development
