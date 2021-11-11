@@ -8,7 +8,8 @@ I am an enthusastic and motivated programmer and problem solver with a strong te
 
 I'm looking to work with a team, and on something, that I can be proud of!
 
-*(863) 271-3401* | *ultimga@gmail.com*
+![phone](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/call.png)*(863) 271-3401* |
+![email](https://github.com/dmhendricks/signature-social-icons/blob/master/icons/round-flat-filled/35px/mail.png)*ultimga@gmail.com*
 
 * * *
 
