@@ -25,12 +25,14 @@ C#, C++, Java, HTML
 
 ### Technologies
 
+* JDK
 * .NET core/framework
 * Unity, Unreal
 * Oculus SDK / VR Dev
 * SQL, MySQL, SQLite
 * Source control Git, SVN
 * Atlassian, Trello
+* Microsoft Office
 * Visual Studio, VSCode, Eclipse
 
 ### Work History
