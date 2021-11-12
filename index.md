@@ -68,4 +68,3 @@ Self-employed 2010 - 2015
 
 ### Education
 * Associote of Computer Science GPA: 3.6, Polk State College (Computer Systems & Business Analysis)
-* Pursuing Bachelor's of Computer Science
