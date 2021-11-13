@@ -40,7 +40,7 @@ C#, C++, Java, HTML
 ###### **Team Lead - Incident Management**
 Diebold Nixdorf 2021 - Current
 
-###### **Incident Handler**
+###### **Incident Manager**
 Diebold Nixdorf 2019 - 2021
 
 ###### **IT Specialist**
